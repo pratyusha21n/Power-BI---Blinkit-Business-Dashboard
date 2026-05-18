@@ -227,6 +227,14 @@ Possible future improvements include:
 * Deploying dashboards to Power BI Service
 
 ---
+# Project Description
+
+Constructed an interactive Power BI dashboard using DAX measures, Power Query, and data
+modeling techniques to analyze INR 1.2M sales data across multiple outlet categories
+Created KPI metrics for sales, ratings, and outlet performance.
+Identified key trends in product categories and regional sales distribution
+
+---
 
 # Author
 
