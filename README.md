@@ -229,16 +229,10 @@ Possible future improvements include:
 ---
 # Project Description
 
-* Cleaned inconsistent and missing data using Power Query
-* Built relationships between multiple tables for accurate analysis
-* Created DAX measures for KPIs and business insights
-* Optimized dashboard performance for large datasets
-* Designed interactive and user-friendly dashboard visuals
-* Managed data transformation and formatting issues
-* Implemented dynamic filters and slicers for better analysis
-* Ensured accurate sales and outlet performance reporting
-* Structured data model for efficient dashboard navigation
-* Converted raw retail data into actionable business insights
+* Constructed an interactive Power BI dashboard using DAX measures, Power Query, and data
+   modeling techniques to analyze INR 1.2M sales data across multiple outlet categories
+* Created KPI metrics for sales, ratings, and outlet performance.
+* Identified key trends in product categories and regional sales distribution
 
 ---
 
@@ -251,16 +245,16 @@ Data Analyst | Power BI | SQL | Python | Excel
 ---
 # Challenges Faced 
 
-Cleaned inconsistent and missing data using Power Query
-Built relationships between multiple tables for accurate analysis
-Created DAX measures for KPIs and business insights
-Optimized dashboard performance for large datasets
-Designed interactive and user-friendly dashboard visuals
-Managed data transformation and formatting issues
-Implemented dynamic filters and slicers for better analysis
-Ensured accurate sales and outlet performance reporting
-Structured data model for efficient dashboard navigation
-Converted raw retail data into actionable business insights
+* Cleaned inconsistent and missing data using Power Query
+* Built relationships between multiple tables for accurate analysis
+* Created DAX measures for KPIs and business insights
+* Optimized dashboard performance for large datasets
+* Designed interactive and user-friendly dashboard visuals
+* Managed data transformation and formatting issues
+* Implemented dynamic filters and slicers for better analysis
+* Ensured accurate sales and outlet performance reporting
+* Structured data model for efficient dashboard navigation
+* Converted raw retail data into actionable business insights
 
 ---
 
