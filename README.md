@@ -1,6 +1,4 @@
-# Power-BI---Blinkit-Business-Dashboard
-
-# Blinkit Sales & Operations Analysis – Power BI Project
+# blinkit-business-dashboard-power-bi
 
 ## Overview
 
